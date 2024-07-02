@@ -2,7 +2,7 @@
 
 Welcome to my Web Development Journey repository! This is where I document my progress and projects as I dive into the world of web development. Let's build something amazing together! 🚀
 
-## Projects
+## Practices
 
 1. **👋 Hello World**
    - File: [hello.html](./hello.html)

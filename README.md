@@ -16,6 +16,6 @@ Welcome to my Web Development Journey repository! This is where I document my pr
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [reet.ritul0211@example.com](mailto:reet.ritul0211@example.com)
 
 Let's code and create together! 💻✨

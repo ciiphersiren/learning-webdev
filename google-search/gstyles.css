@@ -1,0 +1,81 @@
+img {
+    margin-top: 30px;
+    width: 350px;
+    height: 150px;
+}
+
+.content {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#searchBar {
+    margin-top: 15px;
+    width: 500px;
+    height: 10px;
+    border: 0.1px solid rgba(8, 8, 8, 0.2);
+    border-radius: 25px;
+    padding: 20px;
+    font-size: 15px;
+}
+
+#searchBar:hover {
+    border: transparent;
+    box-shadow: 0 0 5px rgba(34, 34, 34, 0.5);
+}
+
+#searchBar:focus {
+    outline: none;
+}
+
+#searchButton {
+    background-color: #F8F9FA;
+    margin-top: 28px;
+    width: 140px;
+    height: 40px;
+    font-size: 13px;
+    border: transparent;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+#searchButton:hover {
+    box-shadow: 0 0 2px rgba(34, 34, 34, 0.5);
+}
+
+#luckyButton {
+    background-color: #F8F9FA;
+    margin-top: 28px;
+    width: 140px;
+    height: 40px;
+    font-size: 13px;
+    border: transparent;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+#luckyButton:hover {
+    box-shadow: 0 0 2px rgba(34, 34, 34, 0.5);
+}
+
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    margin-top: 10px;
+    margin-right: 12px;
+    border-color: transparent;
+    background-color: transparent;
+    font-size: 15px;
+    color: rgba(6, 6, 6, 0.8);
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+a:hover {
+    text-decoration: underline;
+}

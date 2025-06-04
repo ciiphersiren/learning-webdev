@@ -58,7 +58,7 @@ pie
 
 ## 📬 Connect & Collaborate  
 - **GitHub**: [@ciiphersiren](https://github.com/ciiphersiren)  
-- **Email**: [reet](reet.ritul0211@gmail.com)
+- **Email**: [reet](mailto:reet.ritul0211@gmail.com)
 - **LinkedIn**: [@ciiphersiren](https://www.linkedin.com/in/ciiphersiren)
 - **Feedback Welcome!** Open to:  
   - Code reviews  

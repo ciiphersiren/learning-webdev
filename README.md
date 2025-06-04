@@ -1,28 +1,77 @@
-# 🌐 Web Development Journey
-
+# 🚀 Web Development Learning Journey  
+**Projects, experiments, and growth in HTML, CSS, and JavaScript**  
 Welcome to my **Web Development Journey** repository! This is where I document my progress and projects as I dive into the world of web development. Let's build something amazing together! 🚀
 
 ---
 
-## 📂 Programs Included
+## 🎯 Featured Projects  
 
-### 👋 Hello World
-- **File**: `hello.html`  
-- **Description**: My very first HTML file, displaying a simple "Hello, World!" message. A small step into the vast universe of web development.
+### 🎲 **Dice Game Challenge**  
+**Tech:** HTML, CSS, JavaScript  
+**Highlights:**  
+- Random dice rolls with `Math.random()`  
+- Dynamic winner announcement  
+- Clean UI with CSS animations  
+**Lesson Learned:** Mastered DOM updates and event-driven logic.  
+**Live Demo:** [Play Here!](https://ciiphersiren.github.io/learning-webdev/dice-game)  
 
-### 📄 Basic Elements
-- **File**: `basic-elements.html`  
-- **Description**: An HTML file showcasing basic HTML elements like headings, paragraphs, lists, and links. It's the foundation of my learning journey.
+### 🥁 **Interactive Drum Kit**  
+**Tech:** HTML, CSS, JavaScript  
+**Highlights:**  
+- Keypress-triggered audio playback  
+- Visual button animations  
+- Fully responsive design  
+**Lesson Learned:** Deepened understanding of `addEventListener` and audio APIs.  
 
-### 🌟 Google Search Page Replica
-- **Files**: [Google Search Project](https://github.com/ciiphersiren/learning-webdev/tree/main/google-search)  
-- **Description**: A replica of the Google Search page, including the main search page, advanced search page, and Google Images search page. This project allows me to practice layout structuring and responsive design using HTML and CSS.
+### 🔍 **Google Search Clone**  
+**Tech:** HTML, CSS  
+**Highlights:**  
+- Pixel-perfect replica of Google's UI  
+- Functional search inputs  
+- Advanced search page  
+**Lesson Learned:** Precision in CSS positioning and form handling.  
+
+### 🧠 **Simon Memory Game**  
+**Tech:** HTML, CSS, JavaScript  
+**Highlights:**  
+- Increasing difficulty levels  
+- Sound feedback system
+- Cute UI
+**Lesson Learned:** Applying framework concepts of jQuery.
+
+### 🌱 **Beginner Projects**  
+- **`hello.html`** - First steps in HTML  
+- **`basic-elements.html`** - Core HTML tag practice  
 
 ---
 
-## 📬 Contact
-Feel free to reach out if you have any questions, suggestions, or just want to connect!
+## 🛠️ Technical Showcase  
+```mermaid
+pie
+    title Language Usage
+    "CSS" : 37.3
+    "HTML" : 36.7
+    "JavaScript" : 26.0
+```
 
-- **Email**: reet.ritul0211@example.com
+---
+
+## 📬 Connect & Collaborate  
+- **GitHub**: [@ciiphersiren](https://github.com/ciiphersiren)  
+- **Email**: [reet](reet.ritul0211@gmail.com)
+- **LinkedIn**: [@ciiphersiren](https://www.linkedin.com/in/ciiphersiren)
+- **Feedback Welcome!** Open to:  
+  - Code reviews  
+  - Project ideas  
+  - Hackathon collaborations  
+
+---
+
+## 🌟 What's Next?  
+- [ ] Adding React projects  
+- [ ] Implement backend functionality  
+- [ ] Create project tutorial videos  
+
+**Last Updated:** June 2025
 
 Let's code and create together! 💻✨
